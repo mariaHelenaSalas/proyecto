@@ -1,0 +1,11 @@
+{
+    "dataMedico": {
+        "123": {
+            "identificacion": "123",
+            "nombre:_apellido": "maria salas",
+            "correo_electronico": "ms@gmail.com",
+            "consultorio": "01",
+            "horario_atencion": "08:00"
+        }
+    }
+}
